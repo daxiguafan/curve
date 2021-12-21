@@ -82,3 +82,6 @@ runlog/
 
 test/client/configs/*
 !test/client/configs/.gitkeep
+
+projects/*
+docker/curvebs
